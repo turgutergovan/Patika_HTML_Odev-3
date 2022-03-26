@@ -1,0 +1,41 @@
+*{
+    background-color: bisque;
+}
+i{
+
+    color: darkred;
+    font-size: 40px;
+}
+
+span{
+    color: brown;
+}
+
+div.kisi{
+    display: inline-block;
+    
+    position: absolute;
+    right: 40%;
+    
+
+}
+
+.malze{
+    
+    margin-left: 33%;
+    margin-top: 70px;
+}
+
+.kirmizibas{
+    display: inline;
+    background-color:brown;
+    color: white;
+    font-weight: bold;
+    border-radius: 6px;
+}
+
+.right p{
+    margin-left: 75%;
+    font-size: 20px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
